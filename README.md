@@ -31,7 +31,7 @@ Follow these steps to get the project running locally.
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/caymazyusuf72/Financeapp>
 cd finance-dashboard
 ```
 
